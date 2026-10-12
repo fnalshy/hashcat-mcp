@@ -1,0 +1,6 @@
+{
+  "hashcat_exe": "/opt/hashcat/hashcat",
+  "hashcat_dir": "/opt/hashcat",
+  "data_dir": "~/.hashcat-mcp",
+  "wordlist_dirs": ["~/wordlists", "/usr/share/wordlists"]
+}

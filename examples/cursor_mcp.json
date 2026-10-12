@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hashcat": {
+      "command": "hashcat-mcp",
+      "args": ["--data-dir", "~/.hashcat-mcp"]
+    }
+  }
+}

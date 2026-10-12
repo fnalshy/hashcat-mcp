@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "hashcat": {
+      "command": "python",
+      "args": ["-m", "hashcat_mcp"],
+      "env": {
+        "HASHCAT_EXE": "/opt/hashcat/hashcat",
+        "HASHCAT_MCP_DATA": "~/.hashcat-mcp",
+        "WORDLIST_DIRS": "~/wordlists"
+      }
+    }
+  }
+}
